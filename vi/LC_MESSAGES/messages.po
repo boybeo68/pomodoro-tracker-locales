@@ -24,11 +24,11 @@ msgstr ""
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
+msgstr[0] "Năm
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
+msgstr[0] "tháng
 
 msgid "day"
 msgid_plural "days"
@@ -585,7 +585,7 @@ msgid "Stats"
 msgstr ""
 
 msgid "Logout"
-msgstr ""
+msgstr "Đăng xuất
 
 msgid "Sign Up / Login"
 msgstr ""
